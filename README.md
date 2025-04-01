@@ -1,4 +1,5 @@
-## Hi there 👋
+## Witam na tym profilu
+Aktualnie uczę się programować, tyle
 
 <!--
 **K-3-6/K-3-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
